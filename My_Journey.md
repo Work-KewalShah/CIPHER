@@ -229,6 +229,13 @@ It was not a sudden halt. Life rarely works that cleanly.
 
 Before the controls could be wired, I needed to learn CAD - properly, not just theory. The enclosure for CIPHER cannot be designed without real Fusion 360 experience. So I did what I always do: built something first. A separate project, deliberately smaller and simpler, to learn on before applying the knowledge somewhere it really mattered.
 
+<div align="center">
+  <img width="700" alt="Countdown Timer Hero Shot" src="https://github.com/user-attachments/assets/e96e554a-d238-4fd0-9683-bef82af7542d" />
+</div>
+<div align="center">
+  Countdown Timer V1
+</div> <br>
+
 That became Countdown Timer V1 - an ESP32-based countdown timer with a snap-fit 3D printed case, built in 7 days from zero CAD experience. The prototype cases are sitting in a box on my desk. Every failed print from every wrong iteration. All the lessons in solid plastic form. If you want to see what learning CAD by building actually looks like, that project has its own repository: [Countdown Timer V1](https://github.com/Work-KewalShah/Countdown-Timer-V1). It's even open sourced, and you can build it easily in half a day's work.
 
 After Countdown Timer was done, exam preparation began. Network+ first - 814/900 on the first attempt. Then Security+, currently ongoing.
