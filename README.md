@@ -607,6 +607,13 @@ CIPHER is not a single skill project. It required learning how to manage power a
 
 I work across embedded systems, cybersecurity, networking, and hardware design. Not by design - by following the next problem wherever it leads. Cybersecurity is where I am going deep right now, holding CompTIA Network+ (814/900) and preparing for Security+. CIPHER is the physical embodiment of that direction: a device that is genuinely useful for security work, built entirely from scratch, that happens to also play retro games.
 
+<div align="center">
+  <img width="700" alt="Countdown Timer Hero Shot" src="https://github.com/user-attachments/assets/e96e554a-d238-4fd0-9683-bef82af7542d" />
+</div>
+<div align="center">
+  Countdown Timer V1
+</div> <br>
+
 The CAD and 3D printing skills needed for the enclosure were learned by building a separate device first - a battery-powered countdown timer on an ESP32 with a snap-fit 3D printed case, built in 7 days. That project exists as its own open source repository if you want to see what learning by doing actually looks like: [Countdown Timer V1](https://github.com/Work-KewalShah/Countdown-Timer-V1).
 
 CIPHER is what comes after that.
